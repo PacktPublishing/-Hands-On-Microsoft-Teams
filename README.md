@@ -9,7 +9,7 @@ This is the code repository for [Hands-On Microsoft Teams](https://www.packtpub.
 ## What is this book about?
 Microsoft Teams is a platform for unified communication in modern workplaces. It not only enables effective communication, but also helps you manage your resources through its integration with various Microsoft Office 365 services. This book offers a comprehensive introduction to the platform, getting you up to speed in no time. Complete with hands-on tutorials, and projects, this easy-to-follow guide will teach you how to use Teams in the best possible way.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Create teams, channels, and tabs in Microsoft Teams
 * Explore the Teams architecture and various Office 365 components included in Teams
 * Perform scheduling, and managing meetings and live events in Teams
