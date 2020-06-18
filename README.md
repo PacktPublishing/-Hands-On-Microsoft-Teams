@@ -43,7 +43,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **João Carlos**
-João Carlos Oliveira Ferreira is an acclaimed Microsoft MVP, MCP, and MCSA. João has been working with SharePoint for the last 8 years and embraced Microsoft Teams right from day one. João is responsible for the development of several products and is also the manager of several development teams.
+is an acclaimed Microsoft MVP, MCP, and MCSA. João has been working with SharePoint for the last 8 years and embraced Microsoft Teams right from day one. João is responsible for the development of several products and is also the manager of several development teams.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
