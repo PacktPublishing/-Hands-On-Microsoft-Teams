@@ -1,6 +1,6 @@
 # Hands-On Microsoft Teams
 
-<a href="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781839213984-original_2.jpg" alt="Hands-On Microsoft Teams" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781839213984-original_2.jpg" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Microsoft Teams](https://www.packtpub.com/business-other/hands-on-microsoft-teams?utm_source=github&utm_medium=repository&utm_campaign=9781839213984), published by Packt.
 
